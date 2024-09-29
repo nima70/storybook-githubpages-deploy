@@ -2,6 +2,11 @@
 
 This project is a starter template that integrates Storybook, Tailwind CSS, and Shadcn to help developers quickly get started with building component libraries and design systems for modern web applications.
 
+[![Watch the video](https://img.youtube.com/vi/AMoqzHN-mZU/maxresdefault.jpg)](https://youtu.be/AMoqzHN-mZU)
+
+### [Watch the full video tutorial on YouTube](https://youtu.be/AMoqzHN-mZU)
+
+
 ## Key Features
 
 - Storybook: An isolated environment to build, document, and test UI components.
